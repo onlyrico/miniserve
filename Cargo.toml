@@ -50,7 +50,7 @@ httparse = "1"
 http = "0.2"
 bytes = "1"
 atty = "0.2"
-rustls = "0.18"
+rustls = "0.19"
 
 [dev-dependencies]
 assert_cmd = "2"
